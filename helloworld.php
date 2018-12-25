@@ -7,3 +7,4 @@
  */
 print "Hello World1 feature test3";
 print "next feature1";
+print "output 00B";
